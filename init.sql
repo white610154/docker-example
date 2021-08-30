@@ -1,0 +1,1 @@
+SET collation_connection = utf8mb4_unicode_ci;

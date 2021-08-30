@@ -1,0 +1,5 @@
+/maria
+/mosquitto/log/*
+/mosquitto/data/*
+/nest/app/*
+/redis
